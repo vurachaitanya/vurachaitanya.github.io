@@ -1,2 +1,2 @@
 # vurachaitanya.github.io
-vurachaitanya my wesite
+Hi i am learning python from vscode
